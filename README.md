@@ -6,3 +6,4 @@
 3. Установить Pip (инструкция на пункт выше)
 4. Установить PyCharm https://www.jetbrains.com/pycharm/
 5. Инструкция по установки PyCharm https://pythonru.com/baza-znanij/poshagovaja-ustanovka-pycharm
+6. Установить PyQt5 https://pypi.org/project/PyQt5/
