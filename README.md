@@ -8,3 +8,4 @@
 # Установка Home Assitant
 Данный установка поможет вам тестировать Ваш custom_components на рабобочей машине.
 1. Нужно скачать и распокавать <a href="https://sourceforge.net/projects/winpython/files/"> WinPython </a>
+<input type="text" value="Hello World" id="myInput">
