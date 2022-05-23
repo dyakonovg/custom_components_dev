@@ -5,6 +5,7 @@
 2. Установить Pip, <a href="https://dataenginer.ru/?p=8318"> инструкция по установке </a>  
 3. Установить  <a href="https://www.jetbrains.com/pycharm/">PyCharm</a> , <a href="https://pythonru.com/baza-znanij/poshagovaja-ustanovka-pycharm">инструкция по установке</a>
 4. Установить <a href="https://pypi.org/project/PyQt5/">PyQt5 </a>
+5. <a href="https://www.youtube.com/watch?v=1fRo0goxuQo&t=89s">Настроить вертуальную среду</a>
 # Установка Home Assitant
 Данный установка поможет вам тестировать Ваш custom_components на рабобочей машине.
 1. Нужно скачать и распокавать <a href="https://sourceforge.net/projects/winpython/files/"> WinPython </a>
