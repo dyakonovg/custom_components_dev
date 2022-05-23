@@ -1,1 +1,2 @@
-# custom_components_dev
+# Предисловие
+# Установка Python
