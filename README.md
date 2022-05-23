@@ -5,3 +5,4 @@
 2. Установить Pip,инструкция по установки https://dataenginer.ru/?p=8318 
 3. Установить PyCharm https://www.jetbrains.com/pycharm/ ,инструкция по установки PyCharm https://pythonru.com/baza-znanij/poshagovaja-ustanovka-pycharm
 4. Установить PyQt5 https://pypi.org/project/PyQt5/
+# Установка Home Assitant
